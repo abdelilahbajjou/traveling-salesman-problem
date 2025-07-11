@@ -22,8 +22,8 @@ A comprehensive Python implementation of the Traveling Salesman Problem with mul
 
 ## Screenshots
 
-![TSP Visualization](screenshots/tsp_visualization.png)
-*TSP algorithm visualization on African map*
+![TSP Visualization](screenshots/)
+*TSP algorithm visualization on Moroccan map*
 
 ## Installation
 
@@ -79,13 +79,7 @@ tsp-solver/
 
 ## Data Structure
 
-The project uses a 6-city example with African locations:
-- Node 0: Northwest Africa (Algeria/Morocco region)
-- Node 1: Central Africa (Niger/Chad region)
-- Node 2: West Africa (Mali/Nigeria region)
-- Node 3: North-Central Africa (Libya region)
-- Node 4: East Africa (Egypt/Sudan region)
-- Node 5: Southwest Africa (Ghana region)
+The project uses a 6-city example with Moroccan locations
 
 ## Algorithms Explained
 
@@ -130,10 +124,6 @@ The project uses a 6-city example with African locations:
 - [ ] Import/export functionality for city data
 - [ ] Performance benchmarking tools
 - [ ] 3D visualization option
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
